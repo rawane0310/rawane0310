@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AIT KACI AZZOU Sarah</h1>
-<h3 align="center">A software engineer student at ESI Algiers</h3>
+<h3 align="center">i'm a fourth year software engineering student at Ecole Nationale Superieure d'Informatique Alger and i'm a backend developer</h3>
 
 
 
